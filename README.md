@@ -18,4 +18,4 @@ pip install rasterio sentinelhub
 ```
 Run either the single-thread or the multi-thread version.
 
-You can put the running script in background using 'screen' or other tools so you can close the terminal without interrupting the job.
+You can put the running script in background using `screen` or other tools so you can close the terminal without interrupting the job.
